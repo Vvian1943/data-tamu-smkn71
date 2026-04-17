@@ -1,6 +1,6 @@
 # Aplikasi Data Tamu SMKN 71 Jakarta
 
-Aplikasi untuk mengelola data siswa dan guru.
+Aplikasi untuk mengelola data Tamu siswa dan guru di SMKN 71 Jakarta.
 
 ## Fitur
 - Tambah/edit/hapus data siswa
@@ -8,6 +8,13 @@ Aplikasi untuk mengelola data siswa dan guru.
 - Cari data
 - Cetak laporan
 - Dark mode
+
+## 📸 Screenshot
+
+![Login](screenshots/login.png)
+![Home](screenshots/home.png)
+![Data Siswa](screenshots/data-siswa.png)
+![Data Guru](screenshots/data-guru.png)
 
 ## Cara Install
 1. Download atau clone repo ini
